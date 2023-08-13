@@ -182,11 +182,10 @@ body {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  padding-right: 0px;
 }
 
 .muscles-container {
-  width: 80%;
+  width: 90%;
 }
 
 .muscles {
