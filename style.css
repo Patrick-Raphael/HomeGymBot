@@ -182,6 +182,7 @@ body {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  padding-right: 0px;
 }
 
 .muscles-container {
