@@ -184,10 +184,6 @@ body {
   flex-wrap: wrap;
 }
 
-.muscles-container {
-  width: 90%;
-}
-
 .muscles {
   width: 100%;
   display: flex;
